@@ -182,6 +182,9 @@ List of resources I find helpful and would like to give credit to. I've included
 
 * [Boostrap official site](https://getbootstrap.com/)
 * [jQuery CDN – Latest Stable Versions](https://releases.jquery.com/)
+* [Free Background image Photos](https://www.pexels.com/search/background%20image/)
+
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->

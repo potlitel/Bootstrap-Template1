@@ -183,7 +183,10 @@ List of resources I find helpful and would like to give credit to. I've included
 * [Boostrap official site](https://getbootstrap.com/)
 * [jQuery CDN – Latest Stable Versions](https://releases.jquery.com/)
 * [Free Background image Photos](https://www.pexels.com/search/background%20image/)
-
+* [React](https://www.shutterstock.com/search/react)
+* [Get Started with REACT — Programming Guide](https://medium.com/quick-code/get-started-with-react-programming-guide-476005be0c64)
+* [Overview of popular css in js libreries for react](https://www.telerik.com/blogs/overview-of-popular-css-in-js-libraries-for-react)
+* [React banner](https://www.google.com/imgres?imgurl=https%3A%2F%2Fd585tldpucybw.cloudfront.net%2Fsfimages%2Fdefault-source%2Fblogs%2Ftemplates%2Freactt-dark_870x220.png%3Fsfvrsn%3Def69fd61_3&imgrefurl=https%3A%2F%2Fwww.telerik.com%2Fblogs%2Foverview-of-popular-css-in-js-libraries-for-react&tbnid=rnpvlHq-VdjviM&vet=12ahUKEwjynbzp8pn5AhXBlFMKHT8ZB6kQMygXegUIARDyAQ..i&docid=qO-fsW8y96uuxM&w=870&h=220&q=react%20backgroind%20image&ved=2ahUKEwjynbzp8pn5AhXBlFMKHT8ZB6kQMygXegUIARDyAQ)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

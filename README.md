@@ -180,7 +180,10 @@ Project Link: [https://github.com/potlitel/Bootstrap-Template1](https://github.c
 
 List of resources I find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [Boostrap official site](https://getbootstrap.com/)
+* [Build fast, responsive sites with Bootstrap](https://getbootstrap.com/)
+* [Bootstrap-Navs and tabs](https://getbootstrap.com/docs/5.2/components/navs-tabs/)
+* [Bootstrap-Grid system](https://getbootstrap.com/docs/5.2/layout/grid/)
+* [Bootstrap-Breakpoints](https://getbootstrap.com/docs/5.2/layout/breakpoints/)
 * [jQuery CDN – Latest Stable Versions](https://releases.jquery.com/)
 * [Free Background image Photos](https://www.pexels.com/search/background%20image/)
 * [React](https://www.shutterstock.com/search/react)
